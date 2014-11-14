@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NHibernateGenLib", "NHibernateGenLib\NHibernateGenLib.csproj", "{1E34D4DF-52CB-480C-B53A-51D75A8D959E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeeklyReport", "..\WeeklyReport\WeeklyReport.csproj", "{6EE09AEA-EA86-4F69-B0C3-20AC8D3DA79E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "..\ConsoleApplication1\ConsoleApplication1.csproj", "{9847CEC7-6BFF-4B4F-BFFC-DE7D8BB12145}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E34D4DF-52CB-480C-B53A-51D75A8D959E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E34D4DF-52CB-480C-B53A-51D75A8D959E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E34D4DF-52CB-480C-B53A-51D75A8D959E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E34D4DF-52CB-480C-B53A-51D75A8D959E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EE09AEA-EA86-4F69-B0C3-20AC8D3DA79E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EE09AEA-EA86-4F69-B0C3-20AC8D3DA79E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EE09AEA-EA86-4F69-B0C3-20AC8D3DA79E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EE09AEA-EA86-4F69-B0C3-20AC8D3DA79E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9847CEC7-6BFF-4B4F-BFFC-DE7D8BB12145}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9847CEC7-6BFF-4B4F-BFFC-DE7D8BB12145}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9847CEC7-6BFF-4B4F-BFFC-DE7D8BB12145}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9847CEC7-6BFF-4B4F-BFFC-DE7D8BB12145}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
