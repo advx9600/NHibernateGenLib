@@ -54,7 +54,9 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <EmbeddedResource Include="Mappings\ImgFlash\Config.hbm.xml" />
-    <EmbeddedResource Include="Mappings\ImgFlash\Image.hbm.xml" />
+    <EmbeddedResource Include="Mappings\ImgFlash\Image.hbm.xml">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <EmbeddedResource Include="Mappings\ReportConfig.hbm.xml">
       <SubType>Designer</SubType>
     </EmbeddedResource>

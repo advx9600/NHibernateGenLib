@@ -6,16 +6,11 @@
     </id>
     <property name="Board" />
     <property name="GitBranch" />
-    <property name="UBoot"  />
-    <property name="UBootFileName"  />
+    <property name="Uboot"  />
+    <property name="UbootPath"  />
     <property name="Kernel"/>
-    <property name="KernelFileName"  />
-    <property name="Ramdisk" />
-    <property name="RamdiskFileName"  />
-    <property name="Userdata" />
-    <property name="UserdataFileName"  />
+    <property name="KernelPath"  />
     <property name="System"/>
-    <property name="SystemFileName"  />
-    <property name="XmlPath"  />
+    <property name="SystemPath"  />
   </class>
 </hibernate-mapping>
